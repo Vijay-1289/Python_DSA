@@ -59,16 +59,18 @@
 # print(u1.interestcalc())
 
 """Polymorphism - one name many forms"""
-class Animal:
-    print("Animal Sound")
-class Dog(Animal):
-    def sound(self):
-        print("Woof")
-class Cat(Animal):
-    def sound(self):
-        print("Meow")
-a1 =  Animal()
-a2 = Dog()
-a3 = Cat()
-a2.sound()
-a3.sound()
+# class Animal:
+#     print("Animal Sound")
+# class Dog(Animal):
+#     def sound(self):
+#         print("Woof")
+# class Cat(Animal):
+#     def sound(self):
+#         print("Meow")
+# a1 =  Animal()
+# a2 = Dog()
+# a3 = Cat()
+# a2.sound()
+# a3.sound()
+
+
