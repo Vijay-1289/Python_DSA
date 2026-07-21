@@ -4,7 +4,7 @@
 # 3. Inheritance
 # 4. Abstraction
 
-"""Encapsulation"""
+"""Encapsulation - Binding the data and functions that operate on the data together"""
 # class A:
 #     def __init__(self,name,age,gender):     #__init__ is a constructor which is used to initialize the variables
 #         self.__name = name                    # self is used to refer to the current object 
