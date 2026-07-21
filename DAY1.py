@@ -45,15 +45,6 @@
 # def default(a,b=10):
 #     print(a,b)
 
-
-# """OOPS"""
-
-# """1. Polymorphism"""
-# l = [1, 2, 3]
-# s =  "Vijay"
-# len(l)
-# len(s)      
-
 # Static typing will always require type declaration 
 # Dynamic typing will not require type declaration
 
